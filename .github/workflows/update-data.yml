@@ -11,12 +11,17 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 180
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
       - name: Fetch prices
+        env:
+          REFRESH: "1"
+          WORKERS: "2"
+          DELAY: "0.8"
         run: python tools/update_data.py
       - name: Commit changes
         run: |
