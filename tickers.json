@@ -1,0 +1,14 @@
+[
+  {"id": "TSLA", "name": "Tesla", "subtitle": "Tesla, Inc.", "source": "yahoo", "symbol": "TSLA", "unit": "$"},
+  {"id": "NVDA", "name": "Nvidia", "subtitle": "NVIDIA Corp.", "source": "yahoo", "symbol": "NVDA", "unit": "$"},
+  {"id": "AAPL", "name": "Apple", "subtitle": "Apple Inc.", "source": "yahoo", "symbol": "AAPL", "unit": "$"},
+  {"id": "GME", "name": "GameStop", "subtitle": "GameStop Corp.", "source": "yahoo", "symbol": "GME", "unit": "$"},
+  {"id": "BTC-USD", "name": "Bitcoin", "subtitle": "BTC in USD", "source": "yahoo", "symbol": "BTC-USD", "unit": "$"},
+  {"id": "ETH-USD", "name": "Ethereum", "subtitle": "ETH in USD", "source": "yahoo", "symbol": "ETH-USD", "unit": "$"},
+  {"id": "QQQ", "name": "Nasdaq 100", "subtitle": "Invesco QQQ ETF", "source": "yahoo", "symbol": "QQQ", "unit": "$"},
+  {"id": "SPY", "name": "S&P 500", "subtitle": "SPDR S&P 500 ETF", "source": "yahoo", "symbol": "SPY", "unit": "$"},
+  {"id": "AMZN", "name": "Amazon", "subtitle": "Amazon.com, Inc.", "source": "yahoo", "symbol": "AMZN", "unit": "$"},
+  {"id": "MSFT", "name": "Microsoft", "subtitle": "Microsoft Corp.", "source": "yahoo", "symbol": "MSFT", "unit": "$"},
+  {"id": "AMD", "name": "AMD", "subtitle": "Advanced Micro Devices", "source": "yahoo", "symbol": "AMD", "unit": "$"},
+  {"id": "DOGE-USD", "name": "Dogecoin", "subtitle": "DOGE in USD", "source": "yahoo", "symbol": "DOGE-USD", "unit": "$"}
+]

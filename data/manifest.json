@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-24",
+ "routes": [
+  {
+   "id": "TSLA",
+   "file": "TSLA.json",
+   "updated": "2026-10-23.1249be"
+  },
+  {
+   "id": "NVDA",
+   "file": "NVDA.json",
+   "updated": "2026-10-23.b5fd4c"
+  },
+  {
+   "id": "AAPL",
+   "file": "AAPL.json",
+   "updated": "2026-10-23.192c06"
+  },
+  {
+   "id": "GME",
+   "file": "GME.json",
+   "updated": "2026-10-23.b900ea"
+  },
+  {
+   "id": "BTC-USD",
+   "file": "BTC-USD.json",
+   "updated": "2026-10-24.a1f1c3"
+  },
+  {
+   "id": "ETH-USD",
+   "file": "ETH-USD.json",
+   "updated": "2026-10-24.aa5e5a"
+  },
+  {
+   "id": "QQQ",
+   "file": "QQQ.json",
+   "updated": "2026-10-23.b816e3"
+  },
+  {
+   "id": "SPY",
+   "file": "SPY.json",
+   "updated": "2026-10-23.1f2da7"
+  },
+  {
+   "id": "AMZN",
+   "file": "AMZN.json",
+   "updated": "2026-10-23.ffb58c"
+  },
+  {
+   "id": "MSFT",
+   "file": "MSFT.json",
+   "updated": "2026-10-23.7c6429"
+  },
+  {
+   "id": "AMD",
+   "file": "AMD.json",
+   "updated": "2026-10-23.0249bb"
+  },
+  {
+   "id": "DOGE-USD",
+   "file": "DOGE-USD.json",
+   "updated": "2026-10-24.c025c1"
+  }
+ ]
+}
