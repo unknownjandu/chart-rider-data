@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24",
+ "updated": "2026-10-25",
  "routes": [
   {
    "id": "TSLA",
@@ -32,14 +32,14 @@
   {
    "id": "BTC-USD",
    "file": "BTC-USD.json",
-   "updated": "2026-10-24.a1f1c3",
+   "updated": "2026-10-25.f276b2",
    "name": "Bitcoin",
    "subtitle": "BTC in USD"
   },
   {
    "id": "ETH-USD",
    "file": "ETH-USD.json",
-   "updated": "2026-10-24.aa5e5a",
+   "updated": "2026-10-25.d480f5",
    "name": "Ethereum",
    "subtitle": "ETH in USD"
   },
@@ -81,7 +81,7 @@
   {
    "id": "DOGE-USD",
    "file": "DOGE-USD.json",
-   "updated": "2026-10-24.c025c1",
+   "updated": "2026-10-25.e242a7",
    "name": "Dogecoin",
    "subtitle": "DOGE in USD"
   },
@@ -8005,7 +8005,7 @@
   {
    "id": "CIG-C",
    "file": "CIG-C.json",
-   "updated": "2026-10-22.789875",
+   "updated": "2026-10-23.4b5d26",
    "name": "Comp En De Mn Cemig ADS American Depositary Receipts",
    "subtitle": "NYSE"
   },
@@ -19667,7 +19667,7 @@
   {
    "id": "ISNR",
    "file": "ISNR.json",
-   "updated": "2026-10-23.8726c1",
+   "updated": "2026-10-23.59d1d5",
    "name": "Snow Rothschild Acquisition Corp.",
    "subtitle": "Nasdaq"
   },
