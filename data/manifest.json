@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25",
+ "updated": "2026-10-26",
  "routes": [
   {
    "id": "TSLA",
@@ -32,14 +32,14 @@
   {
    "id": "BTC-USD",
    "file": "BTC-USD.json",
-   "updated": "2026-10-25.f276b2",
+   "updated": "2026-10-26.828b55",
    "name": "Bitcoin",
    "subtitle": "BTC in USD"
   },
   {
    "id": "ETH-USD",
    "file": "ETH-USD.json",
-   "updated": "2026-10-25.d480f5",
+   "updated": "2026-10-26.e5e757",
    "name": "Ethereum",
    "subtitle": "ETH in USD"
   },
@@ -81,7 +81,7 @@
   {
    "id": "DOGE-USD",
    "file": "DOGE-USD.json",
-   "updated": "2026-10-25.e242a7",
+   "updated": "2026-10-26.87941c",
    "name": "Dogecoin",
    "subtitle": "DOGE in USD"
   },
@@ -6339,7 +6339,7 @@
   {
    "id": "BURU",
    "file": "BURU.json",
-   "updated": "2026-10-23.3a21ad",
+   "updated": "2026-10-23.d5debf",
    "name": "Nuburu, Inc.",
    "subtitle": "NYSE American"
   },
@@ -19667,7 +19667,7 @@
   {
    "id": "ISNR",
    "file": "ISNR.json",
-   "updated": "2026-10-23.59d1d5",
+   "updated": "2026-10-23.8726c1",
    "name": "Snow Rothschild Acquisition Corp.",
    "subtitle": "Nasdaq"
   },
