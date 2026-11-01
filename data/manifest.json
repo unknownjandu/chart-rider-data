@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31",
+ "updated": "2026-11-01",
  "routes": [
   {
    "id": "TSLA",
@@ -32,14 +32,14 @@
   {
    "id": "BTC-USD",
    "file": "BTC-USD.json",
-   "updated": "2026-10-31.42f16f",
+   "updated": "2026-11-01.48e68f",
    "name": "Bitcoin",
    "subtitle": "BTC in USD"
   },
   {
    "id": "ETH-USD",
    "file": "ETH-USD.json",
-   "updated": "2026-10-31.b58f6c",
+   "updated": "2026-11-01.491dd1",
    "name": "Ethereum",
    "subtitle": "ETH in USD"
   },
@@ -81,7 +81,7 @@
   {
    "id": "DOGE-USD",
    "file": "DOGE-USD.json",
-   "updated": "2026-10-31.df8a52",
+   "updated": "2026-11-01.c150af",
    "name": "Dogecoin",
    "subtitle": "DOGE in USD"
   },
@@ -774,7 +774,7 @@
   {
    "id": "ADEA",
    "file": "ADEA.json",
-   "updated": "2026-10-29.d6554e",
+   "updated": "2026-10-30.7b5a14",
    "name": "Adeia Inc.",
    "subtitle": "Nasdaq"
   },
@@ -3014,7 +3014,7 @@
   {
    "id": "ARTC",
    "file": "ARTC.json",
-   "updated": "2026-10-30.e06e91",
+   "updated": "2026-10-30.d3ac70",
    "name": "Art Technology Acquisition Corp.",
    "subtitle": "Nasdaq"
   },
@@ -4939,7 +4939,7 @@
   {
    "id": "BH-A",
    "file": "BH-A.json",
-   "updated": "2026-10-29.777078",
+   "updated": "2026-10-30.e39773",
    "name": "Biglari Holdings Inc.",
    "subtitle": "NYSE"
   },
@@ -5023,7 +5023,7 @@
   {
    "id": "BHV",
    "file": "BHV.json",
-   "updated": "2026-10-30.247be6",
+   "updated": "2026-10-30.5c1710",
    "name": "BlackRock Virginia Municipal Bond Trust",
    "subtitle": "NYSE"
   },
@@ -7844,7 +7844,7 @@
   {
    "id": "CHI",
    "file": "CHI.json",
-   "updated": "2026-10-30.e54245",
+   "updated": "2026-10-30.bda9ac",
    "name": "Calamos Convertible Opportunities and Income Fund",
    "subtitle": "Nasdaq"
   },
@@ -8019,7 +8019,7 @@
   {
    "id": "CIG-C",
    "file": "CIG-C.json",
-   "updated": "2026-10-29.c98eef",
+   "updated": "2026-10-30.a8437d",
    "name": "Comp En De Mn Cemig ADS American Depositary Receipts",
    "subtitle": "NYSE"
   },
@@ -13010,7 +13010,7 @@
   {
    "id": "ETSS",
    "file": "ETSS.json",
-   "updated": "2026-10-30.dd2e00",
+   "updated": "2026-10-30.d14a5b",
    "name": "Energy Transition Special Opportunities",
    "subtitle": "NYSE"
   },
@@ -15019,7 +15019,7 @@
   {
    "id": "FUND",
    "file": "FUND.json",
-   "updated": "2026-10-30.5ebfd6",
+   "updated": "2026-10-30.28f7ec",
    "name": "Sprott Focus Trust, Inc.",
    "subtitle": "Nasdaq"
   },
@@ -16027,7 +16027,7 @@
   {
    "id": "GLU",
    "file": "GLU.json",
-   "updated": "2026-10-30.649095",
+   "updated": "2026-10-30.2b589f",
    "name": "Gabelli Global Utility Common Shares of Beneficial Ownership",
    "subtitle": "NYSE American"
   },
@@ -18057,7 +18057,7 @@
   {
    "id": "HUBB",
    "file": "HUBB.json",
-   "updated": "2026-10-29.33f8d6",
+   "updated": "2026-10-30.7d1b8d",
    "name": "Hubbell Inc",
    "subtitle": "NYSE"
   },
@@ -19828,7 +19828,7 @@
   {
    "id": "IVF",
    "file": "IVF.json",
-   "updated": "2026-10-29.b37746",
+   "updated": "2026-10-30.29f816",
    "name": "INVO Fertility, Inc.",
    "subtitle": "Nasdaq"
   },
@@ -21193,7 +21193,7 @@
   {
    "id": "KTN",
    "file": "KTN.json",
-   "updated": "2026-10-30.d61425",
+   "updated": "2026-10-30.7f45cd",
    "name": "Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (",
    "subtitle": "NYSE"
   },
@@ -23965,7 +23965,7 @@
   {
    "id": "MLPB",
    "file": "MLPB.json",
-   "updated": "2026-10-30.36e7c9",
+   "updated": "2026-10-30.d9701b",
    "name": "ETRACS Alerian MLP Infrastructure Index ETN Series B due April 2, 2040",
    "subtitle": "NYSE Arca"
   },
@@ -27045,7 +27045,7 @@
   {
    "id": "NXXT",
    "file": "NXXT.json",
-   "updated": "2026-10-29.f5c499",
+   "updated": "2026-10-30.2704b9",
    "name": "NextNRG, Inc.",
    "subtitle": "Nasdaq"
   },
@@ -28858,7 +28858,7 @@
   {
    "id": "PEBK",
    "file": "PEBK.json",
-   "updated": "2026-10-30.6ab58d",
+   "updated": "2026-10-30.d867f2",
    "name": "Peoples Bancorp of North Carolina, Inc.",
    "subtitle": "Nasdaq"
   },
@@ -31168,7 +31168,7 @@
   {
    "id": "RDIB",
    "file": "RDIB.json",
-   "updated": "2026-10-29.b0373d",
+   "updated": "2026-10-30.fa6e5c",
    "name": "Reading International Inc",
    "subtitle": "Nasdaq"
   },
@@ -32253,7 +32253,7 @@
   {
    "id": "RUBI",
    "file": "RUBI.json",
-   "updated": "2026-10-29.cae651",
+   "updated": "2026-10-30.7b6e5c",
    "name": "Rubico Inc.",
    "subtitle": "Nasdaq"
   },
@@ -34416,7 +34416,7 @@
   {
    "id": "SOR",
    "file": "SOR.json",
-   "updated": "2026-10-30.d53701",
+   "updated": "2026-10-30.5a460b",
    "name": "Source Capital, Inc. Cmn Shs of BI",
    "subtitle": "NYSE"
   },
@@ -37685,7 +37685,7 @@
   {
    "id": "UCIB",
    "file": "UCIB.json",
-   "updated": "2026-10-30.547b7c",
+   "updated": "2026-10-30.58386f",
    "name": "ETRACS UBS Bloomberg Constant Maturity Commodity Index (CMCI) Total Return ETN S",
    "subtitle": "NYSE Arca"
   },
@@ -39680,7 +39680,7 @@
   {
    "id": "WFF",
    "file": "WFF.json",
-   "updated": "2026-10-29.dd783f",
+   "updated": "2026-10-30.85fbb5",
    "name": "WF Holding Limited",
    "subtitle": "Nasdaq"
   },
@@ -39904,7 +39904,7 @@
   {
    "id": "WLYB",
    "file": "WLYB.json",
-   "updated": "2026-10-29.2ffca5",
+   "updated": "2026-10-30.944db1",
    "name": "John Wiley & Sons, Inc.",
    "subtitle": "NYSE"
   },
@@ -41206,7 +41206,7 @@
   {
    "id": "ZONE",
    "file": "ZONE.json",
-   "updated": "2026-10-29.0fcaae",
+   "updated": "2026-10-30.ab7fa9",
    "name": "Zone Frontier Inc.",
    "subtitle": "NYSE American"
   },
