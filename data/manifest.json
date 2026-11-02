@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01",
+ "updated": "2026-11-02",
  "routes": [
   {
    "id": "TSLA",
@@ -32,14 +32,14 @@
   {
    "id": "BTC-USD",
    "file": "BTC-USD.json",
-   "updated": "2026-11-01.48e68f",
+   "updated": "2026-11-02.ce9360",
    "name": "Bitcoin",
    "subtitle": "BTC in USD"
   },
   {
    "id": "ETH-USD",
    "file": "ETH-USD.json",
-   "updated": "2026-11-01.491dd1",
+   "updated": "2026-11-02.fc4221",
    "name": "Ethereum",
    "subtitle": "ETH in USD"
   },
@@ -81,7 +81,7 @@
   {
    "id": "DOGE-USD",
    "file": "DOGE-USD.json",
-   "updated": "2026-11-01.c150af",
+   "updated": "2026-11-02.795b13",
    "name": "Dogecoin",
    "subtitle": "DOGE in USD"
   },
@@ -28396,7 +28396,7 @@
   {
    "id": "PAPL",
    "file": "PAPL.json",
-   "updated": "2026-10-30.95c58b",
+   "updated": "2026-10-30.aa94f8",
    "name": "Pineapple Financial Inc.",
    "subtitle": "NYSE American"
   },
