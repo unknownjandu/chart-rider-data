@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08",
+ "updated": "2026-11-09",
  "routes": [
   {
    "id": "TSLA",
@@ -32,14 +32,14 @@
   {
    "id": "BTC-USD",
    "file": "BTC-USD.json",
-   "updated": "2026-11-08.1a8b56",
+   "updated": "2026-11-09.dc883d",
    "name": "Bitcoin",
    "subtitle": "BTC in USD"
   },
   {
    "id": "ETH-USD",
    "file": "ETH-USD.json",
-   "updated": "2026-11-08.6bf097",
+   "updated": "2026-11-09.57c28c",
    "name": "Ethereum",
    "subtitle": "ETH in USD"
   },
@@ -81,7 +81,7 @@
   {
    "id": "DOGE-USD",
    "file": "DOGE-USD.json",
-   "updated": "2026-11-08.928743",
+   "updated": "2026-11-09.ebc473",
    "name": "Dogecoin",
    "subtitle": "DOGE in USD"
   },
