@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14",
+ "updated": "2026-11-15",
  "routes": [
   {
    "id": "TSLA",
@@ -32,14 +32,14 @@
   {
    "id": "BTC-USD",
    "file": "BTC-USD.json",
-   "updated": "2026-11-14.b0ad95",
+   "updated": "2026-11-15.b9506b",
    "name": "Bitcoin",
    "subtitle": "BTC in USD"
   },
   {
    "id": "ETH-USD",
    "file": "ETH-USD.json",
-   "updated": "2026-11-14.6e6d83",
+   "updated": "2026-11-15.2e0490",
    "name": "Ethereum",
    "subtitle": "ETH in USD"
   },
@@ -81,7 +81,7 @@
   {
    "id": "DOGE-USD",
    "file": "DOGE-USD.json",
-   "updated": "2026-11-14.e78659",
+   "updated": "2026-11-15.29430f",
    "name": "Dogecoin",
    "subtitle": "DOGE in USD"
   },
@@ -165,7 +165,7 @@
   {
    "id": "ARKK",
    "file": "ARKK.json",
-   "updated": "2026-11-12.2fed47",
+   "updated": "2026-11-13.6929c0",
    "name": "ARK Innovation",
    "subtitle": "ARK Innovation ETF"
   },
@@ -179,7 +179,7 @@
   {
    "id": "AA",
    "file": "AA.json",
-   "updated": "2026-11-12.a1fa72",
+   "updated": "2026-11-13.761ee2",
    "name": "Alcoa Corporation",
    "subtitle": "NYSE"
   },
@@ -200,28 +200,28 @@
   {
    "id": "AACI",
    "file": "AACI.json",
-   "updated": "2026-11-12.c3d81d",
+   "updated": "2026-11-13.bd5e05",
    "name": "Armada Acquisition Corp. III",
    "subtitle": "Nasdaq"
   },
   {
    "id": "AACO",
    "file": "AACO.json",
-   "updated": "2026-11-12.38ad22",
+   "updated": "2026-11-13.1a625d",
    "name": "Abony Acquisition Corp. I",
    "subtitle": "Nasdaq"
   },
   {
    "id": "AACP",
    "file": "AACP.json",
-   "updated": "2026-11-12.07cc64",
+   "updated": "2026-11-13.3641a4",
    "name": "Apogee Acquisition Corp",
    "subtitle": "Nasdaq"
   },
   {
    "id": "AADX",
    "file": "AADX.json",
-   "updated": "2026-11-12.33ec88",
+   "updated": "2026-11-13.0d8d3c",
    "name": "Applied Aerospace & Defense, Inc.",
    "subtitle": "NYSE"
   },
@@ -242,14 +242,14 @@
   {
    "id": "AAMI",
    "file": "AAMI.json",
-   "updated": "2026-11-12.2cc713",
+   "updated": "2026-11-13.dcf22d",
    "name": "Acadian Asset Management Inc.",
    "subtitle": "NYSE"
   },
   {
    "id": "AAOI",
    "file": "AAOI.json",
-   "updated": "2026-11-12.b62a1a",
+   "updated": "2026-11-13.160018",
    "name": "Applied Optoelectronics, Inc.",
    "subtitle": "Nasdaq"
   },
@@ -270,14 +270,14 @@
   {
    "id": "AAPG",
    "file": "AAPG.json",
-   "updated": "2026-11-12.fa3745",
+   "updated": "2026-11-13.de5e48",
    "name": "Ascentage Pharma Group International",
    "subtitle": "Nasdaq"
   },
   {
    "id": "AARD",
    "file": "AARD.json",
-   "updated": "2026-11-12.2f6eda",
+   "updated": "2026-11-13.fa89de",
    "name": "Aardvark Therapeutics, Inc.",
    "subtitle": "Nasdaq"
   },
@@ -291,21 +291,21 @@
   {
    "id": "AAUC",
    "file": "AAUC.json",
-   "updated": "2026-11-12.391e4a",
+   "updated": "2026-11-13.958a69",
    "name": "Allied Gold Corporation Common Shares",
    "subtitle": "NYSE"
   },
   {
    "id": "ABAT",
    "file": "ABAT.json",
-   "updated": "2026-11-12.b92ca9",
+   "updated": "2026-11-13.a3872f",
    "name": "American Battery Technology Company",
    "subtitle": "Nasdaq"
   },
   {
    "id": "ABBV",
    "file": "ABBV.json",
-   "updated": "2026-11-12.ef0561",
+   "updated": "2026-11-13.0b6445",
    "name": "AbbVie Inc.",
    "subtitle": "NYSE"
   },
@@ -319,7 +319,7 @@
   {
    "id": "ABCL",
    "file": "ABCL.json",
-   "updated": "2026-11-12.49c3db",
+   "updated": "2026-11-13.8d1156",
    "name": "AbCellera Biologics Inc.",
    "subtitle": "Nasdaq"
   },
@@ -347,7 +347,7 @@
   {
    "id": "ABLV",
    "file": "ABLV.json",
-   "updated": "2026-11-12.9893d1",
+   "updated": "2026-11-13.fa4ad2",
    "name": "Able View Global Inc.",
    "subtitle": "Nasdaq"
   },
@@ -361,14 +361,14 @@
   {
    "id": "ABNB",
    "file": "ABNB.json",
-   "updated": "2026-11-12.baaa28",
+   "updated": "2026-11-13.804c1e",
    "name": "Airbnb, Inc.",
    "subtitle": "Nasdaq"
   },
   {
    "id": "ABOS",
    "file": "ABOS.json",
-   "updated": "2026-11-12.8ed1e7",
+   "updated": "2026-11-13.679f46",
    "name": "Acumen Pharmaceuticals, Inc.",
    "subtitle": "Nasdaq"
   },
@@ -382,7 +382,7 @@
   {
    "id": "ABSI",
    "file": "ABSI.json",
-   "updated": "2026-11-12.e8900d",
+   "updated": "2026-11-13.1c77ff",
    "name": "Absci Corporation",
    "subtitle": "Nasdaq"
   },
@@ -396,14 +396,14 @@
   {
    "id": "ABTC",
    "file": "ABTC.json",
-   "updated": "2026-11-12.a2ce48",
+   "updated": "2026-11-13.d6425c",
    "name": "American Bitcoin Corp.",
    "subtitle": "Nasdaq"
   },
   {
    "id": "ABTS",
    "file": "ABTS.json",
-   "updated": "2026-11-12.f71ce4",
+   "updated": "2026-11-13.617023",
    "name": "Abits Group Inc",
    "subtitle": "Nasdaq"
   },
@@ -417,21 +417,21 @@
   {
    "id": "ABVC",
    "file": "ABVC.json",
-   "updated": "2026-11-12.2d7917",
+   "updated": "2026-11-13.dd2396",
    "name": "ABVC BioPharma, Inc.",
    "subtitle": "Nasdaq"
   },
   {
    "id": "ABVX",
    "file": "ABVX.json",
-   "updated": "2026-11-12.36fd76",
+   "updated": "2026-11-13.7d5f4a",
    "name": "Abivax SA",
    "subtitle": "Nasdaq"
   },
   {
    "id": "ABX",
    "file": "ABX.json",
-   "updated": "2026-11-12.f62385",
+   "updated": "2026-11-13.ce0987",
    "name": "Abacus Global Management, Inc.",
    "subtitle": "NYSE"
   },
@@ -445,7 +445,7 @@
   {
    "id": "ACAA",
    "file": "ACAA.json",
-   "updated": "2026-11-12.56d89c",
+   "updated": "2026-11-13.7cce4e",
    "name": "Averin Capital Acquisition Corp.",
    "subtitle": "Nasdaq"
   },
@@ -774,7 +774,7 @@
   {
    "id": "ADEA",
    "file": "ADEA.json",
-   "updated": "2026-11-13.0089a7",
+   "updated": "2026-11-13.b7631a",
    "name": "Adeia Inc.",
    "subtitle": "Nasdaq"
   },
@@ -4533,7 +4533,7 @@
   {
    "id": "BCV",
    "file": "BCV.json",
-   "updated": "2026-11-13.252966",
+   "updated": "2026-11-13.c854a4",
    "name": "Bancroft Fund, Ltd.",
    "subtitle": "NYSE American"
   },
@@ -4575,7 +4575,7 @@
   {
    "id": "BDCZ",
    "file": "BDCZ.json",
-   "updated": "2026-11-13.922957",
+   "updated": "2026-11-13.c2090b",
    "name": "ETRACS MarketVector Business Development Companies Liquid Index ETN due April 26",
    "subtitle": "NYSE Arca"
   },
@@ -4946,7 +4946,7 @@
   {
    "id": "BH-A",
    "file": "BH-A.json",
-   "updated": "2026-11-12.b6e4ad",
+   "updated": "2026-11-13.9f03d0",
    "name": "Biglari Holdings Inc.",
    "subtitle": "NYSE"
   },
@@ -5947,7 +5947,7 @@
   {
    "id": "BRKH",
    "file": "BRKH.json",
-   "updated": "2026-11-13.eab4ec",
+   "updated": "2026-11-13.0052a9",
    "name": "Burtech Acquisition Corp II",
    "subtitle": "Nasdaq"
   },
@@ -7725,7 +7725,7 @@
   {
    "id": "CGO",
    "file": "CGO.json",
-   "updated": "2026-11-13.d288bf",
+   "updated": "2026-11-13.feeec1",
    "name": "Calamos Global Total Return Fund",
    "subtitle": "Nasdaq"
   },
@@ -9013,7 +9013,7 @@
   {
    "id": "COSM",
    "file": "COSM.json",
-   "updated": "2026-11-12.1f29b8",
+   "updated": "2026-11-12.032f6f",
    "name": "Cosmos Health Inc.",
    "subtitle": "Nasdaq"
   },
@@ -11918,7 +11918,7 @@
   {
    "id": "EFR",
    "file": "EFR.json",
-   "updated": "2026-11-13.198a10",
+   "updated": "2026-11-13.77de36",
    "name": "Eaton Vance Senior Floating-Rate Fund Common Shares of Beneficial Interest",
    "subtitle": "NYSE"
   },
@@ -12429,7 +12429,7 @@
   {
    "id": "ENJ",
    "file": "ENJ.json",
-   "updated": "2026-11-13.0b817f",
+   "updated": "2026-11-13.e43c3d",
    "name": "Entergy New Orleans, LLC First Mortgage Bonds, 5.0% Series due December 1, 2052",
    "subtitle": "NYSE"
   },
@@ -15054,7 +15054,7 @@
   {
    "id": "FUSB",
    "file": "FUSB.json",
-   "updated": "2026-11-13.f055e5",
+   "updated": "2026-11-13.8b9e1b",
    "name": "First US Bancshares, Inc.",
    "subtitle": "Nasdaq"
   },
@@ -15334,7 +15334,7 @@
   {
    "id": "GCGR",
    "file": "GCGR.json",
-   "updated": "2026-11-13.7e2ec1",
+   "updated": "2026-11-13.450c77",
    "name": "General Catalyst Global Resilience Merger Corp.",
    "subtitle": "Nasdaq"
   },
@@ -15705,7 +15705,7 @@
   {
    "id": "GGZ",
    "file": "GGZ.json",
-   "updated": "2026-11-13.116d93",
+   "updated": "2026-11-13.46f1d6",
    "name": "Gabelli Global Small and Mid Cap Value Trust (The) Common Shares of Beneficial I",
    "subtitle": "NYSE"
   },
@@ -16048,7 +16048,7 @@
   {
    "id": "GLU",
    "file": "GLU.json",
-   "updated": "2026-11-13.41f4f2",
+   "updated": "2026-11-13.2273f8",
    "name": "Gabelli Global Utility Common Shares of Beneficial Ownership",
    "subtitle": "NYSE American"
   },
@@ -16503,7 +16503,7 @@
   {
    "id": "GRF",
    "file": "GRF.json",
-   "updated": "2026-11-13.132a8c",
+   "updated": "2026-11-13.fb11c1",
    "name": "Eagle Capital Growth Fund, Inc.",
    "subtitle": "NYSE American"
   },
@@ -20199,7 +20199,7 @@
   {
    "id": "JHS",
    "file": "JHS.json",
-   "updated": "2026-11-13.1d2058",
+   "updated": "2026-11-13.475494",
    "name": "John Hancock Income Securities Trust",
    "subtitle": "NYSE"
   },
@@ -20283,7 +20283,7 @@
   {
    "id": "JMM",
    "file": "JMM.json",
-   "updated": "2026-11-13.3f5d87",
+   "updated": "2026-11-13.aa24e9",
    "name": "Nuveen Multi-Market Income Fund (MA)",
    "subtitle": "NYSE"
   },
@@ -21228,7 +21228,7 @@
   {
    "id": "KTN",
    "file": "KTN.json",
-   "updated": "2026-11-13.0fc565",
+   "updated": "2026-11-13.3c4852",
    "name": "Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (",
    "subtitle": "NYSE"
   },
@@ -21606,7 +21606,7 @@
   {
    "id": "LCU",
    "file": "LCU.json",
-   "updated": "2026-11-13.bf203e",
+   "updated": "2026-11-13.508392",
    "name": "Lion Copper Corp.",
    "subtitle": "Nasdaq"
   },
@@ -24000,7 +24000,7 @@
   {
    "id": "MLPB",
    "file": "MLPB.json",
-   "updated": "2026-11-13.fc0c23",
+   "updated": "2026-11-13.39def0",
    "name": "ETRACS Alerian MLP Infrastructure Index ETN Series B due April 2, 2040",
    "subtitle": "NYSE Arca"
   },
@@ -28298,7 +28298,7 @@
   {
    "id": "PAAC",
    "file": "PAAC.json",
-   "updated": "2026-11-13.193afd",
+   "updated": "2026-11-13.3895aa",
    "name": "Proem Acquisition Corp I",
    "subtitle": "Nasdaq"
   },
@@ -30741,7 +30741,7 @@
   {
    "id": "QQQX",
    "file": "QQQX.json",
-   "updated": "2026-11-13.f5a829",
+   "updated": "2026-11-13.08949a",
    "name": "Nuveen NASDAQ 100 Dynamic Overwrite Fund",
    "subtitle": "Nasdaq"
   },
@@ -33541,7 +33541,7 @@
   {
    "id": "SHOT",
    "file": "SHOT.json",
-   "updated": "2026-11-13.5666a7",
+   "updated": "2026-11-13.bb1f2b",
    "name": "RMG ML Sports Holdings",
    "subtitle": "Nasdaq"
   },
@@ -33702,7 +33702,7 @@
   {
    "id": "SITC",
    "file": "SITC.json",
-   "updated": "2026-11-12.db7f78",
+   "updated": "2026-11-13.5a6389",
    "name": "SITE Centers Corp.",
    "subtitle": "NYSE"
   },
@@ -34493,7 +34493,7 @@
   {
    "id": "SORN",
    "file": "SORN.json",
-   "updated": "2026-11-13.669b25",
+   "updated": "2026-11-13.d33287",
    "name": "Soren Acquisition Corp.",
    "subtitle": "Nasdaq"
   },
@@ -34892,7 +34892,7 @@
   {
    "id": "SSAC",
    "file": "SSAC.json",
-   "updated": "2026-11-13.e73031",
+   "updated": "2026-11-13.a9478c",
    "name": "SPACSphere Acquisition Corp.",
    "subtitle": "Nasdaq"
   },
