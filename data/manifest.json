@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21",
+ "updated": "2026-11-22",
  "routes": [
   {
    "id": "TSLA",
@@ -32,14 +32,14 @@
   {
    "id": "BTC-USD",
    "file": "BTC-USD.json",
-   "updated": "2026-11-21.5b4aae",
+   "updated": "2026-11-22.63f103",
    "name": "Bitcoin",
    "subtitle": "BTC in USD"
   },
   {
    "id": "ETH-USD",
    "file": "ETH-USD.json",
-   "updated": "2026-11-21.0ce1d1",
+   "updated": "2026-11-22.f40f16",
    "name": "Ethereum",
    "subtitle": "ETH in USD"
   },
@@ -81,7 +81,7 @@
   {
    "id": "DOGE-USD",
    "file": "DOGE-USD.json",
-   "updated": "2026-11-21.46be3d",
+   "updated": "2026-11-22.2be113",
    "name": "Dogecoin",
    "subtitle": "DOGE in USD"
   },
@@ -3721,7 +3721,7 @@
   {
    "id": "AVBH",
    "file": "AVBH.json",
-   "updated": "2026-11-20.27fd77",
+   "updated": "2026-11-20.5cdef8",
    "name": "Avidbank Holdings, Inc.",
    "subtitle": "Nasdaq"
   },
@@ -4554,7 +4554,7 @@
   {
    "id": "BCV",
    "file": "BCV.json",
-   "updated": "2026-11-20.2668ef",
+   "updated": "2026-11-20.c6636f",
    "name": "Bancroft Fund, Ltd.",
    "subtitle": "NYSE American"
   },
@@ -7711,7 +7711,7 @@
   {
    "id": "CGCF",
    "file": "CGCF.json",
-   "updated": "2026-11-20.2e2b19",
+   "updated": "2026-11-20.1dd262",
    "name": "Cartesian Growth Corporation IV",
    "subtitle": "Nasdaq"
   },
@@ -8215,7 +8215,7 @@
   {
    "id": "CLBR",
    "file": "CLBR.json",
-   "updated": "2026-11-20.f1814f",
+   "updated": "2026-11-20.8328e3",
    "name": "Colombier Acquisition Corp. III",
    "subtitle": "NYSE"
   },
@@ -13843,7 +13843,7 @@
   {
    "id": "FERA",
    "file": "FERA.json",
-   "updated": "2026-11-20.82a8b9",
+   "updated": "2026-11-20.d8c8ed",
    "name": "Fifth Era Acquisition Corp I",
    "subtitle": "Nasdaq"
   },
@@ -13941,7 +13941,7 @@
   {
    "id": "FGII",
    "file": "FGII.json",
-   "updated": "2026-11-20.0fc6ab",
+   "updated": "2026-11-20.ccd3de",
    "name": "FG Imperii Acquisition Corp.",
    "subtitle": "Nasdaq"
   },
@@ -16216,7 +16216,7 @@
   {
    "id": "GNS",
    "file": "GNS.json",
-   "updated": "2026-11-19.370907",
+   "updated": "2026-11-20.9c7e08",
    "name": "Genius Group Limited",
    "subtitle": "NYSE American"
   },
@@ -19205,7 +19205,7 @@
   {
    "id": "INM",
    "file": "INM.json",
-   "updated": "2026-11-20.e7b352",
+   "updated": "2026-11-04.3cd68f",
    "name": "InMed Pharmaceuticals Inc.",
    "subtitle": "Nasdaq"
   },
@@ -19653,7 +19653,7 @@
   {
    "id": "IRHO",
    "file": "IRHO.json",
-   "updated": "2026-11-20.82f1f0",
+   "updated": "2026-11-20.7a93dd",
    "name": "Iron Horse Acquisitions II Corp.",
    "subtitle": "Nasdaq"
   },
@@ -21039,7 +21039,7 @@
   {
    "id": "KOYN",
    "file": "KOYN.json",
-   "updated": "2026-11-20.cb21e8",
+   "updated": "2026-11-20.e5591e",
    "name": "CSLM Digital Asset Acquisition Corp III",
    "subtitle": "Nasdaq"
   },
@@ -21249,7 +21249,7 @@
   {
    "id": "KTN",
    "file": "KTN.json",
-   "updated": "2026-11-20.0fdd4a",
+   "updated": "2026-11-20.f90e01",
    "name": "Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (",
    "subtitle": "NYSE"
   },
@@ -21270,7 +21270,7 @@
   {
    "id": "KTWO",
    "file": "KTWO.json",
-   "updated": "2026-11-20.501813",
+   "updated": "2026-11-20.9f39d7",
    "name": "K2 Capital Acquisition Corporation",
    "subtitle": "Nasdaq"
   },
@@ -24021,7 +24021,7 @@
   {
    "id": "MLPB",
    "file": "MLPB.json",
-   "updated": "2026-11-20.ff05b6",
+   "updated": "2026-11-20.f12584",
    "name": "ETRACS Alerian MLP Infrastructure Index ETN Series B due April 2, 2040",
    "subtitle": "NYSE Arca"
   },
@@ -24413,7 +24413,7 @@
   {
    "id": "MPV",
    "file": "MPV.json",
-   "updated": "2026-11-20.829f1f",
+   "updated": "2026-11-20.39718f",
    "name": "Barings Participation Investors",
    "subtitle": "NYSE"
   },
@@ -25834,7 +25834,7 @@
   {
    "id": "NHIV",
    "file": "NHIV.json",
-   "updated": "2026-11-20.e7e329",
+   "updated": "2026-11-20.8bb3a1",
    "name": "NewHold Investment Corp IV",
    "subtitle": "Nasdaq"
   },
@@ -27500,7 +27500,7 @@
   {
    "id": "OIM",
    "file": "OIM.json",
-   "updated": "2026-11-20.8ed2f5",
+   "updated": "2026-11-20.f9b0d0",
    "name": "OneIM Acquisition Corp.",
    "subtitle": "Nasdaq"
   },
@@ -31245,7 +31245,7 @@
   {
    "id": "RDIB",
    "file": "RDIB.json",
-   "updated": "2026-11-19.967170",
+   "updated": "2026-11-20.fb8f3d",
    "name": "Reading International Inc",
    "subtitle": "Nasdaq"
   },
@@ -31973,7 +31973,7 @@
   {
    "id": "RNAQ",
    "file": "RNAQ.json",
-   "updated": "2026-11-20.7fc60c",
+   "updated": "2026-11-20.b636c5",
    "name": "Rainier Acquisition Corporation",
    "subtitle": "Nasdaq"
   },
@@ -32001,7 +32001,7 @@
   {
    "id": "RNGT",
    "file": "RNGT.json",
-   "updated": "2026-11-20.f693fa",
+   "updated": "2026-11-20.3e9683",
    "name": "Range Capital Acquisition Corp II",
    "subtitle": "Nasdaq"
   },
@@ -33002,7 +33002,7 @@
   {
    "id": "SCNI",
    "file": "SCNI.json",
-   "updated": "2026-11-20.7b4298",
+   "updated": "2026-11-18.b8b2b7",
    "name": "Scinai Immunotherapeutics Ltd.",
    "subtitle": "Nasdaq"
   },
@@ -34437,7 +34437,7 @@
   {
    "id": "SOCA",
    "file": "SOCA.json",
-   "updated": "2026-11-20.e205ea",
+   "updated": "2026-11-20.1f4ce7",
    "name": "Solarius Capital Acquisition Corp.",
    "subtitle": "Nasdaq"
   },
@@ -34535,7 +34535,7 @@
   {
    "id": "SOS",
    "file": "SOS.json",
-   "updated": "2026-11-20.833444",
+   "updated": "2026-11-18.2bab93",
    "name": "SOS Limited",
    "subtitle": "NYSE"
   },
@@ -34927,7 +34927,7 @@
   {
    "id": "SSAC",
    "file": "SSAC.json",
-   "updated": "2026-11-20.464f36",
+   "updated": "2026-11-20.408ae9",
    "name": "SPACSphere Acquisition Corp.",
    "subtitle": "Nasdaq"
   },
@@ -37755,7 +37755,7 @@
   {
    "id": "UBCP",
    "file": "UBCP.json",
-   "updated": "2026-11-20.fce115",
+   "updated": "2026-11-20.d40b04",
    "name": "United Bancorp, Inc.",
    "subtitle": "Nasdaq"
   },
@@ -37797,7 +37797,7 @@
   {
    "id": "UCFI",
    "file": "UCFI.json",
-   "updated": "2026-11-20.152597",
+   "updated": "2026-11-20.fd3ac0",
    "name": "CN Healthy Food Tech Group Corp.",
    "subtitle": "Nasdaq"
   },
@@ -40618,7 +40618,7 @@
   {
    "id": "XIII",
    "file": "XIII.json",
-   "updated": "2026-11-20.a152f0",
+   "updated": "2026-11-20.b99001",
    "name": "Churchill Capital Corp XIII",
    "subtitle": "Nasdaq"
   },
