@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22",
+ "updated": "2026-11-23",
  "routes": [
   {
    "id": "TSLA",
@@ -32,14 +32,14 @@
   {
    "id": "BTC-USD",
    "file": "BTC-USD.json",
-   "updated": "2026-11-22.63f103",
+   "updated": "2026-11-23.4bf837",
    "name": "Bitcoin",
    "subtitle": "BTC in USD"
   },
   {
    "id": "ETH-USD",
    "file": "ETH-USD.json",
-   "updated": "2026-11-22.f40f16",
+   "updated": "2026-11-23.93ef96",
    "name": "Ethereum",
    "subtitle": "ETH in USD"
   },
@@ -81,7 +81,7 @@
   {
    "id": "DOGE-USD",
    "file": "DOGE-USD.json",
-   "updated": "2026-11-22.2be113",
+   "updated": "2026-11-23.5cd101",
    "name": "Dogecoin",
    "subtitle": "DOGE in USD"
   },
@@ -29453,7 +29453,7 @@
   {
    "id": "PLCE",
    "file": "PLCE.json",
-   "updated": "2026-11-20.9122b4",
+   "updated": "2026-11-20.a43d75",
    "name": "Children's Place, Inc. (The)",
    "subtitle": "Nasdaq"
   },
