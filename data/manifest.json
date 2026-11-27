@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "routes": [
   {
    "id": "TSLA",
@@ -32,14 +32,14 @@
   {
    "id": "BTC-USD",
    "file": "BTC-USD.json",
-   "updated": "2026-11-26.f5d02c",
+   "updated": "2026-11-27.b2670a",
    "name": "Bitcoin",
    "subtitle": "BTC in USD"
   },
   {
    "id": "ETH-USD",
    "file": "ETH-USD.json",
-   "updated": "2026-11-26.d6125b",
+   "updated": "2026-11-27.d61681",
    "name": "Ethereum",
    "subtitle": "ETH in USD"
   },
@@ -81,7 +81,7 @@
   {
    "id": "DOGE-USD",
    "file": "DOGE-USD.json",
-   "updated": "2026-11-26.e5c711",
+   "updated": "2026-11-27.8b5b4e",
    "name": "Dogecoin",
    "subtitle": "DOGE in USD"
   },
@@ -186,7 +186,7 @@
   {
    "id": "AAC",
    "file": "AAC.json",
-   "updated": "2026-11-25.651b62",
+   "updated": "2026-11-25.8bef25",
    "name": "Ares Acquisition Corporation III",
    "subtitle": "NYSE"
   },
@@ -781,7 +781,7 @@
   {
    "id": "ADEA",
    "file": "ADEA.json",
-   "updated": "2026-11-25.69c4a0",
+   "updated": "2026-11-25.e89eaa",
    "name": "Adeia Inc.",
    "subtitle": "Nasdaq"
   },
@@ -3042,7 +3042,7 @@
   {
    "id": "ARTC",
    "file": "ARTC.json",
-   "updated": "2026-11-25.2e64f8",
+   "updated": "2026-11-25.ed7173",
    "name": "Art Technology Acquisition Corp.",
    "subtitle": "Nasdaq"
   },
@@ -3119,7 +3119,7 @@
   {
    "id": "ASA",
    "file": "ASA.json",
-   "updated": "2026-11-25.78edf2",
+   "updated": "2026-11-25.e046d8",
    "name": "ASA  Gold and Precious Metals Limited",
    "subtitle": "NYSE"
   },
@@ -4603,7 +4603,7 @@
   {
    "id": "BDCZ",
    "file": "BDCZ.json",
-   "updated": "2026-11-25.2c6deb",
+   "updated": "2026-11-25.e2a9fb",
    "name": "ETRACS MarketVector Business Development Companies Liquid Index ETN due April 26",
    "subtitle": "NYSE Arca"
   },
@@ -5079,7 +5079,7 @@
   {
    "id": "BID",
    "file": "BID.json",
-   "updated": "2026-11-25.591ec2",
+   "updated": "2026-11-25.bb9ccb",
    "name": "Tribeca Strategic Acquisition Corp.",
    "subtitle": "Nasdaq"
   },
@@ -7613,7 +7613,7 @@
   {
    "id": "CET",
    "file": "CET.json",
-   "updated": "2026-11-25.43355e",
+   "updated": "2026-11-25.c5ff8a",
    "name": "Central Securities Corporation",
    "subtitle": "NYSE American"
   },
@@ -7634,7 +7634,7 @@
   {
    "id": "CEV",
    "file": "CEV.json",
-   "updated": "2026-11-25.77ea0b",
+   "updated": "2026-11-25.007088",
    "name": "Eaton Vance California Municipal Income Trust Shares of Beneficial Interest",
    "subtitle": "NYSE American"
   },
@@ -8068,7 +8068,7 @@
   {
    "id": "CIG-C",
    "file": "CIG-C.json",
-   "updated": "2026-11-24.b67145",
+   "updated": "2026-11-25.920ba5",
    "name": "Comp En De Mn Cemig ADS American Depositary Receipts",
    "subtitle": "NYSE"
   },
@@ -13164,7 +13164,7 @@
   {
    "id": "EVF",
    "file": "EVF.json",
-   "updated": "2026-11-25.dba871",
+   "updated": "2026-11-25.02a2c9",
    "name": "Eaton Vance Senior Income Trust",
    "subtitle": "NYSE"
   },
@@ -14998,7 +14998,7 @@
   {
    "id": "FTRA",
    "file": "FTRA.json",
-   "updated": "2026-11-25.1fc4d4",
+   "updated": "2026-11-25.01846d",
    "name": "FutureCorp Space Acquisition 1",
    "subtitle": "NYSE"
   },
@@ -19233,7 +19233,7 @@
   {
    "id": "INM",
    "file": "INM.json",
-   "updated": "2026-11-04.de6d1b",
+   "updated": "2026-11-25.8f8e2e",
    "name": "InMed Pharmaceuticals Inc.",
    "subtitle": "Nasdaq"
   },
@@ -20248,7 +20248,7 @@
   {
    "id": "JHS",
    "file": "JHS.json",
-   "updated": "2026-11-25.11d503",
+   "updated": "2026-11-25.4d0833",
    "name": "John Hancock Income Securities Trust",
    "subtitle": "NYSE"
   },
@@ -23657,7 +23657,7 @@
   {
    "id": "MGF",
    "file": "MGF.json",
-   "updated": "2026-11-25.51709f",
+   "updated": "2026-11-25.dd2017",
    "name": "Aberdeen Government Markets Income Fund Common Shares of Beneficial Interest",
    "subtitle": "NYSE"
   },
@@ -24049,7 +24049,7 @@
   {
    "id": "MLPB",
    "file": "MLPB.json",
-   "updated": "2026-11-25.9b11c8",
+   "updated": "2026-11-25.d035d1",
    "name": "ETRACS Alerian MLP Infrastructure Index ETN Series B due April 2, 2040",
    "subtitle": "NYSE Arca"
   },
@@ -24210,7 +24210,7 @@
   {
    "id": "MNSB",
    "file": "MNSB.json",
-   "updated": "2026-11-25.4eaaf6",
+   "updated": "2026-11-25.0155fb",
    "name": "MainStreet Bancshares, Inc.",
    "subtitle": "Nasdaq"
   },
@@ -26597,7 +26597,7 @@
   {
    "id": "NTCL",
    "file": "NTCL.json",
-   "updated": "2026-11-19.db6e52",
+   "updated": "2026-11-25.5dd683",
    "name": "NETCLASS TECHNOLOGY INC",
    "subtitle": "Nasdaq"
   },
@@ -31273,7 +31273,7 @@
   {
    "id": "RDIB",
    "file": "RDIB.json",
-   "updated": "2026-11-24.7c86b0",
+   "updated": "2026-11-25.4cdf11",
    "name": "Reading International Inc",
    "subtitle": "Nasdaq"
   },
@@ -32120,7 +32120,7 @@
   {
    "id": "ROKU",
    "file": "ROKU.json",
-   "updated": "2026-11-06.c0da2c",
+   "updated": "2026-11-06.3a79e2",
    "name": "Roku, Inc.",
    "subtitle": "Nasdaq"
   },
@@ -33030,7 +33030,7 @@
   {
    "id": "SCNI",
    "file": "SCNI.json",
-   "updated": "2026-11-18.4b50cc",
+   "updated": "2026-11-25.103890",
    "name": "Scinai Immunotherapeutics Ltd.",
    "subtitle": "Nasdaq"
   },
@@ -34409,7 +34409,7 @@
   {
    "id": "SNTI",
    "file": "SNTI.json",
-   "updated": "2026-11-24.1ab126",
+   "updated": "2026-11-25.f0d137",
    "name": "Senti Biosciences Holdings, Inc.",
    "subtitle": "Nasdaq"
   },
@@ -34563,7 +34563,7 @@
   {
    "id": "SOS",
    "file": "SOS.json",
-   "updated": "2026-11-18.86d783",
+   "updated": "2026-11-25.1dc8a4",
    "name": "SOS Limited",
    "subtitle": "NYSE"
   },
@@ -40058,7 +40058,7 @@
   {
    "id": "WLYB",
    "file": "WLYB.json",
-   "updated": "2026-11-24.17e997",
+   "updated": "2026-11-25.a14e45",
    "name": "John Wiley & Sons, Inc.",
    "subtitle": "NYSE"
   },
